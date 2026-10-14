@@ -1,5 +1,6 @@
 Hi, I'm Alimatu Maliaka Jalloh (@Malaikamadi)
-I am a passionate software engineering student, activist, and founder of impactful FemTech solutions focused on improving women’s health outcomes in underserved communities.
+
+I'm a Data Engineer at the National Health Information Hub and a passionate software engineering student, activist, and founder of impactful FemTech solutions focused on improving women’s health outcomes in underserved communities.
 
 About Me
 Currently studying Software Engineering with a focus on real-world problem solving through technology.
